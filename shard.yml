@@ -1,0 +1,13 @@
+name: crystimage
+version: 0.1.0
+
+authors:
+  - Caleb Uriah Harrison <calebuharrison@gmail.com>
+
+dependencies:
+  lib_stb_image:
+    github: calebuharrison/LibSTBImage
+
+crystal: 0.23.1
+
+license: MIT
